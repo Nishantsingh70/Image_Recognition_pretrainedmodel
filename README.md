@@ -15,7 +15,7 @@ In this task, I am using Pretrained model(MobileNet) to predict the image of the
 
 In my dataset, there is the pictures of Salman Khan and Akshay Kumar.
 
-In step 1 - I import the MobileNet pretrained model
+In step 1 - I import the MobileNet pretrained model and Freeze the layers of MobileNet
 
 In step 2 - I make the function which help to connect the FC into MobileNet
 
